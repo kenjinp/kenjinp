@@ -1,9 +1,14 @@
 # Howdy! 👋 I'm Kenny
 
-I want to create expansive virtual worlds with web technology. I'd be delighted if my tools or libraries can help you in your game project or help you develop a setting to DM a session of your favorite TTRPG. 
+<image src="worldscape.jpg" height="300px" />
 
+I want to create expansive virtual worlds with web technology. 
+I'd be delighted if my tools or libraries can help you in your game project or help you develop a setting to DM a session of your favorite TTRPG.
 
-You can find my latest projects here: 
-- 🌍 [Hello Worlds](https://worlds.kenny.wtf/), a collection of libraries to build virtual javascript worlds at planetary skills.
+Latest projects:
+- 🌍 [Hello Worlds](https://worlds.kenny.wtf/), a collection of libraries to build virtual javascript worlds at planetary scales
 
-Get in touch! Find me [on Twitter](https://twitter.com/KennyPirman) or [the Poimandres Discord](https://discord.gg/aAYjm2p7c7).
+♥ If you find my work useful or inspiring, consider [sending me a coffee!](https://ko-fi.com/kennywtf)
+<br/>
+
+✉ Get in Touch! Find me [on Twitter](https://twitter.com/KennyPirman) or [the Poimandres Discord](https://discord.gg/aAYjm2p7c7).
