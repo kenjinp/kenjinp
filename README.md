@@ -1,6 +1,6 @@
 # Howdy! 👋 I'm Kenny
 
-<image src="worldscape.jpg" height="300px" />
+<image src="worldscape.jpg" />
 
 I want to create expansive virtual worlds with web technology. 
 I'd be delighted if my tools or libraries can help you in your game project or help you develop a setting to DM a session of your favorite TTRPG.
