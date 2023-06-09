@@ -11,4 +11,4 @@ Latest projects:
 ♥ If you find my work useful or inspiring, consider [sending me a coffee!](https://ko-fi.com/kennywtf)
 <br/>
 
-✉ Get in Touch! Find me [on Twitter](https://twitter.com/KennyPirman) or [the Poimandres Discord](https://discord.gg/aAYjm2p7c7).
+✉ Get in Touch! Find me [on Twitter](https://twitter.com/KennyPirman) or [the hello-worlds Discord](https://discord.gg/7VqE93h58B).
